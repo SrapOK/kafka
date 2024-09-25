@@ -1,0 +1,7 @@
+http_server:
+  address: "localhost:8080"
+  timeout: 6s
+  idle_timeout: 8s
+kafka:
+  address: "localhost:9092"
+  topic: "person-topic"
